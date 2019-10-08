@@ -65,6 +65,12 @@ export default {
           "The coolest and better Social Network ever created (by me).",
         screenshot: "/images/super-awesome-app.png",
         url: "https://superawesomeapp.luis-herrera.site"
+      },
+      {
+        name: "WikiZoo",
+        description: "Wikipedia like app to find information about animals",
+        screenshot: "/images/wikizoo.png",
+        url: "https://wikizoo.luis-herrera.site"
       }
     ]
   })
